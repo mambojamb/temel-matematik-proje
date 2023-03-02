@@ -2,4 +2,4 @@
 
 ## Üçgenin iç açıları toplamı neden 180°?
 
-*Öncelikle, bir üçgenin iç açılarının toplamının 180 derece olmasının ana nedeni, bir çemberin 360 dereceyle temsil ediliyor olması (Bu arada "derece" dediğimiz şey, tanım gereği, 1 çemberin 360'ta biri). Aşağıdaki harika gösterimin 3 görselle basitçe ispatladığı üzere, üçgenin iç açıları toplamı da bir çemberin tam yarısı kadar, o nedenle 180 derece:
+*Her şeyden önce üçgenlerin iç açılarının toplamının 180° derece olmasının temel sebebi çemberlerde 360 derece bulunmasından kaynaklanıyor. Bir üçgenin iç açıları toplamı bir çemberin yarısı kadar olması sebebiyle 180°'ye eşit. Tam da bu yüzden sorulması gereken esas soru, "Bir çember neden 360°?" sorusu. Bunun sebebi çember konusunda ilk kapsamlı çalışmaları yapan Babillerin Güneş'in gökteki hareketinin 360 günlük döngülerden oluştuğunu düşünmeleridir. Bu da, sayı sistemlerine ve neticesinde, geometrilerine de yansımıştır. 
